@@ -23,7 +23,7 @@ Technologies Used
 How to Run
 1. Clone the repository:
    ```bash
-   git clone https://github.com/USERNAME/Twitter-Sentiment-Analysis.git
+   git clone https://github.com/Abhishek1204-j/Twitter-Analysis-using-ML
    cd Twitter-Sentiment-Analysis-main
 
 2. Open the notebook:
